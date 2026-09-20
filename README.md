@@ -1,11 +1,3 @@
 # proyecto_adso
-<!DOCTYPE html>
-<html>
-<head>
-<title>Proyecto ADSO</title>
-</head>
-<body>
-<h1>Sistema de aprendices</h1>
-</body>
-</html>
+
 
